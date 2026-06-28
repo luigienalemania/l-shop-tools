@@ -5,9 +5,9 @@ Static homepage for the Etsy Open API app review.
 Use `public/index.html` as the site root when publishing with GitHub Pages,
 Cloudflare Pages, Netlify, or another static hosting service.
 
-Temporary published URL:
+Published URL:
 
-- `https://e32ef66f515178.lhr.life`
+- `https://luigienalemania.github.io/l-shop-tools/`
 
 Recommended app registration fields:
 
